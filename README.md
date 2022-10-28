@@ -1,9 +1,6 @@
 # Cloud_Managed_SQL
 
 #Table creation 
-<<<<<<< HEAD
-1. Set up SQL environment on GCP
-=======
 1. Set up SQL environment on GCP and MySQL Workbench
 
 2. Create appropriate .py files needed, along with a .env file for inputting the database characteristics (hostname, user, password, databse name)
@@ -12,9 +9,6 @@
 5. Execute commands for tables to be input into database environment 
 
 #Creating dummy data 
-<<<<<<< HEAD
-1. 
-=======
 1. install packages needed
 2. call in database 
 3. create fake patiets 
